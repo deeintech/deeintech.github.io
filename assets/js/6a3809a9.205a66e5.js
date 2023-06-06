@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeeintech=self.webpackChunkdeeintech||[]).push([[666],{6759:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"web-3","name":"web3","count":2,"permalink":"/blog/tags/web-3"}')}}]);

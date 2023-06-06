@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeeintech=self.webpackChunkdeeintech||[]).push([[53],{1109:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"docs":[{"type":"link","label":"Intro","href":"/docs/"}]},"permalinkToSidebar":{"/docs/":"docs"}}')}}]);

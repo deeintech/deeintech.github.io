@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeeintech=self.webpackChunkdeeintech||[]).push([[713],{3457:function(e){e.exports=JSON.parse('{"tech-writing":{"allTagsPath":"/blog/tags","slug":"tech-writing","name":"tech writing","count":2,"permalink":"/blog/tags/tech-writing"},"web-3":{"allTagsPath":"/blog/tags","slug":"web-3","name":"web3","count":2,"permalink":"/blog/tags/web-3"}}')}}]);
