@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://deeintech.com/blog</id>
+    <title>Dee in Tech Blog</title>
+    <updated>2023-05-30T17:37:03.362Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://deeintech.com/blog"/>
+    <subtitle>Dee in Tech Blog</subtitle>
+    <icon>https://deeintech.com/img/favicon.png</icon>
+    <rights>© 2023 Dee in Tech</rights>
+    <entry>
+        <title type="html"><![CDATA[Dev Portals Research]]></title>
+        <id>Dev Portals Research</id>
+        <link href="https://deeintech.com/blog/dev-portals-research"/>
+        <updated>2023-05-30T17:37:03.362Z</updated>
+        <summary type="html"><![CDATA[Goals]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to manage a VPS]]></title>
+        <id>How to manage a VPS</id>
+        <link href="https://deeintech.com/blog/manage-vps"/>
+        <updated>2023-05-30T11:54:37.493Z</updated>
+        <summary type="html"><![CDATA[By the end of this guide you should know how to set up, configure, and secure a VPS or dedicated server. The guide is useful for launching a Watcher instance or any blockchain node. It is required to have some basic knowledge of Linux.]]></summary>
+    </entry>
+</feed>

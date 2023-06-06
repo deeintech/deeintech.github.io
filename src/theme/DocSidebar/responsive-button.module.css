@@ -1,0 +1,28 @@
+.button {
+  bottom: 2rem;
+  display: block;
+  position: fixed;
+  right: 1rem;
+  z-index: var(--ifm-z-index-overlay);
+}
+
+@media screen and (min-width: 997px) {
+  .button {
+    display: none;
+  }
+}
+
+.icon {
+  vertical-align: middle;
+}
+
+.closeIcon {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 24px;
+  font-size: 1.5rem;
+  font-weight: var(--ifm-font-weight-bold);
+  line-height: 0.9;
+  width: 24px;
+}

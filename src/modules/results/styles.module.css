@@ -1,0 +1,107 @@
+.columns {
+  display: grid;
+  gap: 4rem;
+}
+
+.textColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.list {
+  padding: 0;
+  margin-top: 2rem;
+  list-style-type: none;
+  align-items: center;
+}
+
+.bullet {
+  display: flex;
+  align-items: center;
+  font-size: var(--font-size-large);
+  font-weight: var(--ifm-font-weight-semibold);
+  margin-top: 0.5rem;
+}
+
+.bullet:before {
+  content: "";
+  display: flex;
+  width: 0.4rem;
+  height: 0.6rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  /* background-image: url("/img/pages/index/list-bullet-arrow.svg?inline"); */
+  background-color: transparent;
+}
+
+.bullet span {
+  margin-left: 0.5rem;
+}
+
+.startBuildingRoot {
+  display: grid;
+  grid-auto-flow: row;
+  gap: 2rem;
+  grid-template-areas:
+    "start-building-button"
+    "actions"
+    "instance-details-image"
+    "instance-metrics-image";
+}
+
+.startBuildingImage {
+  /* box-shadow: var(--image-shadow); */
+  height: auto;
+}
+
+.instanceDetailsImage {
+  grid-area: instance-details-image;
+}
+
+.instanceMetricsImage {
+  grid-area: instance-metrics-image;
+}
+
+.startBuildingButton {
+  grid-area: start-building-button;
+}
+
+.startBuildingCredits {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: auto;
+  text-align: center;
+}
+
+.actions {
+  grid-area: actions;
+}
+
+@media (min-width: 1000px) {
+  .section {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  .columns {
+    /* align-items: center; */
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .textColumn {
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .startBuildingRoot {
+    grid-template-areas:
+      "instance-details-image"
+      "instance-metrics-image"
+      "start-building-button"
+      "actions";
+  }
+}
