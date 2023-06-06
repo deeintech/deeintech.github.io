@@ -1,6 +1,0 @@
-User-agent: *
-
-Allow: /sitemap.xml
-Disallow: /__unused/
-Sitemap: https://deeintech.com/sitemap.xml
-Host: https://deeintech.com
