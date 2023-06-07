@@ -338,6 +338,7 @@ html[data-theme="light"] .admonition.alert--warning {
 html,
 body {
   height: 100%;
+  color: var(--palette-white);
   background: rgb(29,36,96);
   background: radial-gradient(circle, rgb(29, 36, 96) 1%, rgba(20,20,20,1) 100%);
   background-attachment: fixed;
