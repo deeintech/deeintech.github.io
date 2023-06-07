@@ -3,7 +3,7 @@
   --palette-gray: #32343e;
   --palette-green: #66bb6a;
   --palette-midnight: #141725;
-  --palette-pale-blue: #b1b5d3;
+  --palette-pale-blue: #b9bcd5;
   --palette-pink: #d14671;
   --palette-pink-darker: #be2f5b;
   --palette-rock: transparent;
@@ -333,12 +333,9 @@ html[data-theme="light"] .admonition.alert--warning {
  *
  **/
 
-/* NOTE */
-
 html,
 body {
   height: 100%;
-  color: var(--palette-white);
   background: rgb(29,36,96);
   background: radial-gradient(circle, rgb(29, 36, 96) 1%, rgba(20,20,20,1) 100%);
   background-attachment: fixed;
@@ -353,6 +350,25 @@ body {
   min-height: 100%;
   display: flex;
   flex-direction: column;
+}
+
+/* Colors */
+html,
+body, .navbar, .navbar__items {
+  color: var(--palette-white);
+}
+
+p {
+  color: var(--palette-pale-blue);
+}
+
+.brand {
+  height: 21px;
+  min-width: 119px;
+}
+
+.card, .card_src-modules-services- {
+  background: transparent;
 }
 
 /**
@@ -379,28 +395,6 @@ body {
 
 html[data-theme="light"] .blog-wrapper header h2 a {
   color: var(--ifm-font-color-base);
-}
-
-/**
- *
- * Careers
- *
- **/
-
-.career {
-  align-self: center;
-  box-sizing: content-box;
-}
-
-/**
- *
- * Supplemental docs (Privacy notice, TOS)
- *
- **/
-
-.supplemental {
-  align-self: center;
-  box-sizing: content-box;
 }
 
 /**

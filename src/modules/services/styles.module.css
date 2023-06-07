@@ -14,7 +14,8 @@
   padding: 2rem;
   border: 1px solid #2b385b;
   border-radius: var(--theme-card-border-radius);
-  background: var(--theme-card-bg-color);
+  background: transparent;
+  /* background: var(--theme-card-bg-color); */
 }
 
 .illustration {
