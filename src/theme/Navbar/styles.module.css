@@ -11,7 +11,7 @@
 
 .brand {
   display: block;
-  height: 21px;
+  height: 19px;
   min-width: 119px;
   margin-right: var(--ifm-navbar-item-padding-horizontal);
   color: transparent;
