@@ -358,7 +358,7 @@ body, .navbar, .navbar__items {
   color: var(--palette-white);
 }
 
-p {
+p, .navbar__link {
   color: var(--palette-pale-blue);
 }
 
