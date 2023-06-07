@@ -11,7 +11,6 @@
     "serve": "docusaurus serve"
   },
   "dependencies": {
-    "@radix-ui/react-dialog": "^0.1.7",
     "clsx": "1.1.1",
     "date-fns": "2.16.1",
     "posthog-docusaurus": "^1.0.4",
@@ -57,19 +56,16 @@
     "eslint-plugin-standard": "4.1.0",
     "fork-ts-checker-webpack-plugin": "6.0.3",
     "glob": "7.1.6",
-    "husky": "^7.0.4",
     "imagemin": "7.0.1",
     "imagemin-gifsicle": "7.0.0",
     "imagemin-svgo": "8.0.0",
     "lint-staged": "10.5.1",
-    "netlify-plugin-cache": "^1.0.3",
     "node-fetch": "2.6.7",
     "prettier": "2.1.2",
     "rimraf": "3.0.2",
     "sharp": "0.30.5",
     "typescript": "4.0.5",
-    "webpack": "^5.76.0",
-    "webpack-manifest-plugin": "^3.1.1"
+    "webpack": "^5.76.0"
   },
   "browserslist": {
     "production": [

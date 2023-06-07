@@ -18,7 +18,6 @@ const config = {
   plugins: [
     require.resolve("./plugins/webpack-ts/index"),
     require.resolve("./plugins/optimize/index"),
-    require.resolve("./plugins/manifest/index"),
     require.resolve("./plugins/delay-code-block-appearance"),
     [
       require.resolve("./plugins/blog"),
