@@ -11,7 +11,7 @@
 
 .brand {
   display: block;
-  height: 20px;
+  height: 21px;
   min-width: 119px;
   margin-right: var(--ifm-navbar-item-padding-horizontal);
   color: transparent;
@@ -46,6 +46,10 @@
   top: 0;
   z-index: var(--z-index-navbar);
   --ifm-navbar-padding-vertical: 0;
+}
+
+.navbar, .navbar__items {
+  color: #fff;
 }
 
 /* hide unneeded search bar elements. we only need an icon. */
