@@ -12,6 +12,14 @@
     var(--transition-bezier);
 }
 
+.button > a {
+  color: var(--theme-button-primary-text-color);
+}
+
+.button > a:hover {
+  text-decoration: none;
+}
+
 .button:hover {
   text-decoration: none;
   cursor: pointer;

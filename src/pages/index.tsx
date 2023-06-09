@@ -1,7 +1,6 @@
 import React from "react"
 import clsx from "clsx"
-
-import { InlineWidget } from "react-calendly"
+import Button from "@theme/Button"
 import customFields from "../config/customFields"
 
 import liCss from "../css/use-cases/list.module.css"
@@ -78,15 +77,16 @@ const Home = () => (
 
       <Section noGap center>
         <Section.Subtitle center size="small">
-          Book a call
+          DM me on <a href="https://twitter.com/deeintech">Twitter</a> or <br />
+          <br />
+          <div>
+            <Button>
+              {" "}
+              <a href="https://calendly.com/deeintech/15min">Book a call</a>
+            </Button>
+          </div>
         </Section.Subtitle>
       </Section>
-      <div className="calendly-inline-widget-wrapper">
-        <InlineWidget
-          url="https://calendly.com/deeintech/15min"
-          styles={{ width: "100%", height: "100%" }}
-        />
-      </div>
     </Section>
   </Layout>
 )
