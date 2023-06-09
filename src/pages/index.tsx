@@ -79,12 +79,12 @@ const Home = () => (
         <Section.Subtitle center size="small">
           DM me on <a href="https://twitter.com/deeintech">Twitter</a> or <br />
           <br />
-          <div>
-            <Button to="https://calendly.com/deeintech/15min" newTab>
-              Book a call
-            </Button>
-          </div>
         </Section.Subtitle>
+        <div>
+          <Button to="https://calendly.com/deeintech/15min" newTab>
+            Book a call
+          </Button>
+        </div>
       </Section>
     </Section>
   </Layout>
