@@ -35,8 +35,7 @@ export const Results = () => {
           <div className={styles.startBuildingRoot}>
             <img
               src="/img/others/arcadia.png"
-              width={600}
-              height={240}
+              width={900}
               alt="Arcadia results"
               className={clsx(
                 styles.startBuildingImage,

@@ -1,6 +1,6 @@
 .columns {
   display: grid;
-  gap: 4rem;
+  gap: 1rem;
 }
 
 .textColumn {
