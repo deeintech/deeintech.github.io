@@ -17,7 +17,7 @@ export const Header = () => {
 
         <div>
           <Button to="#go" newTab={false}>
-            Get in Touch
+            Get Started
           </Button>
         </div>
       </div>

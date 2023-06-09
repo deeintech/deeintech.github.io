@@ -80,9 +80,8 @@ const Home = () => (
           DM me on <a href="https://twitter.com/deeintech">Twitter</a> or <br />
           <br />
           <div>
-            <Button>
-              {" "}
-              <a href="https://calendly.com/deeintech/15min">Book a call</a>
+            <Button to="https://calendly.com/deeintech/15min" newTab>
+              Book a call
             </Button>
           </div>
         </Section.Subtitle>
