@@ -9,9 +9,8 @@ export const About = () => (
       <img
         alt="Dee"
         className={styles.illustration}
-        height={300}
-        src="/img/others/dee.jpg"
-        width={480}
+        src="/img/others/dee.png"
+        width={360}
       />
 
       <div className={styles.text}>
