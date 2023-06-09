@@ -6,7 +6,6 @@ import clsx from "clsx"
 const featureList = [
   "Time freedom to focus on the product",
   "High credibility and status in Web3",
-  "Clarity on USP, ICP, branding",
   "World-class execution service",
   "Genuine long-lasting community",
   "Partnerships with prominent IPs",
