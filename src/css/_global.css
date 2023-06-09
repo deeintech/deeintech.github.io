@@ -3,7 +3,7 @@
   --palette-gray: #32343e;
   --palette-green: #66bb6a;
   --palette-midnight: #141725;
-  --palette-pale-blue: #acaec2;
+  --palette-pale-blue: #cbcddd;
   --palette-pink: #d14671;
   --palette-pink-darker: #be2f5b;
   --palette-rock: transparent;
@@ -137,7 +137,7 @@ html[data-theme="dark"] {
 }
 
 html[data-theme="light"] {
-  --palette-pale-blue: #acaec2;
+  --palette-pale-blue: #cbcddd;
   --palette-rock: #262833;
   --palette-gray: #4b4e5d;
 
