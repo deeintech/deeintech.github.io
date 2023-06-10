@@ -7,12 +7,13 @@ export const Header = () => {
   return (
     <Section fullWidth center>
       <div className={styles.titles}>
-        <Section.Title level={1} className={styles.header}>
-          Dee in Tech
+        <Section.Title level={1} size="small">
+          Hi, I'm Dee
         </Section.Title>
 
         <Section.Subtitle className={styles.subheader} center>
-          Facilitating connections and deals to scale your GameFi project
+          I facilitate connections and deals to scale your GameFi or Web3
+          project
         </Section.Subtitle>
 
         <div>
