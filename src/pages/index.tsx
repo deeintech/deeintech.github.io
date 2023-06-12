@@ -50,6 +50,9 @@ const PartnersData = () => (
             "Manage a client portfolio worth close to $1 Bn",
           ]}
         />
+        <div>
+          <a href="/partners/"> *View all partners</a>
+        </div>
       </div>
       <UseCaseCustomers customers={customers} />
     </div>

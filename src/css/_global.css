@@ -371,6 +371,10 @@ p, .navbar__link {
   background: transparent;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 /**
  *
  * Utils
