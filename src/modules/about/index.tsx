@@ -24,11 +24,11 @@ export const About = () => (
         <ul className={styles.list}>
           <li className={styles.bullet}>6+ years in Web3</li>
           <li className={styles.bullet}>
-            Worked @ Myria, Chainlink, OMG Network
+            Worked @ Chainlink, OMG Network, Myria
           </li>
           <li className={styles.bullet}>Code apps in my spare time</li>
           <li className={styles.bullet}>
-            A member of Blockchain Game Alliance
+            A member of Blockchain Game Alliance, ARC Community
           </li>
         </ul>
       </div>

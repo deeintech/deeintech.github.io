@@ -14,6 +14,10 @@ export const customers: Customer[] = [
       "Pacific Meta Inc. provides comprehensive marketing support for overseas Web3 projects in the Japanese market, including strategy development, localization, promotion, and community management.",
   },
   {
+    key: "arc",
+    quote: "Asia's most curated members-only community.",
+  },
+  {
     key: "darklabs",
     quote:
       "Dark Capital is a Venture Studio that helps with fundraising and equity financing.",

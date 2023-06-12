@@ -25,6 +25,12 @@ export const logos: Record<string, CustomerLogo> = {
     width: 70,
     height: 55,
   },
+  arc: {
+    src: "/img/logos/arc.svg",
+    alt: "Arc logo",
+    width: 90,
+    height: 36,
+  },
   rev3: {
     src: "/img/logos/rev3.svg",
     alt: "Rev3 logo",

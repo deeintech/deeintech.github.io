@@ -17,7 +17,7 @@ import { Results } from "../modules/results"
 import { Header } from "../modules/index-header"
 import { Services } from "../modules/services"
 import { About } from "../modules/about"
-import { customers } from "../assets/cusomers"
+import { customers } from "../assets/customers"
 
 const List = ({
   items,
