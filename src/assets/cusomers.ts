@@ -14,12 +14,6 @@ export const customers: Customer[] = [
       "Pacific Meta Inc. provides comprehensive marketing support for overseas Web3 projects in the Japanese market, including strategy development, localization, promotion, and community management.",
   },
   {
-    key: "opn",
-    logoWidth: 36,
-    quote:
-      "OPN offers a full-suite of high tier Web3 services that cater for your success in the Web3 market.",
-  },
-  {
     key: "darklabs",
     quote:
       "Dark Capital is a Venture Studio that helps with fundraising and equity financing.",
@@ -28,11 +22,6 @@ export const customers: Customer[] = [
     key: "bga",
     quote:
       "The Blockchain Game Alliance is an organization committed to promoting blockchain within the game industry.",
-  },
-  {
-    key: "lvrg",
-    quote:
-      "LVRG is a leading BD studio aimed to accelerate the growth of Web3 brands.",
   },
   {
     key: "rev3",

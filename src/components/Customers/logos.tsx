@@ -8,10 +8,7 @@ import { logos as logosManifest } from "../../assets/logos"
 import arcadia from "../../../static/img/logos/arcadia.svg"
 import pacificmeta from "../../../static/img/logos/pacificmeta.svg"
 import darklabs from "../../../static/img/logos/darklabs.svg"
-import lvrg from "../../../static/img/logos/lvrg.svg"
 import rev3 from "../../../static/img/logos/rev3.svg"
-// import opn from "../../../static/img/logos/opn.svg"
-// import bga from "../../../static/img/logos/bga.svg"
 
 const svgs = [
   {
@@ -29,25 +26,9 @@ const svgs = [
     height: 36,
   },
   {
-    ...logosManifest.lvrg,
-    svg: lvrg,
-    width: 140,
-    height: 24,
-  },
-  {
     ...logosManifest.rev3,
     svg: rev3,
   },
-  // {
-  //   ...logosManifest.opn,
-  //   svg: opn,
-  //   width: 36,
-  //   height: 36,
-  // },
-  // {
-  //   ...logosManifest.bga,
-  //   svg: bga,
-  // },
 ]
 
 export const Logos = ({ isDarkTheme }) => (
