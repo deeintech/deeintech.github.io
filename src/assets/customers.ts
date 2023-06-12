@@ -14,18 +14,9 @@ export const customers: Customer[] = [
       "Pacific Meta Inc. provides comprehensive marketing support for overseas Web3 projects in the Japanese market, including strategy development, localization, promotion, and community management.",
   },
   {
-    key: "arc",
-    quote: "Asia's most curated members-only community.",
-  },
-  {
-    key: "darklabs",
+    key: "lvrg",
     quote:
-      "Dark Capital is a Venture Studio that helps with fundraising and equity financing.",
-  },
-  {
-    key: "bga",
-    quote:
-      "The Blockchain Game Alliance is an organization committed to promoting blockchain within the game industry.",
+      "LVRG is a leading BD studio aimed to accelerate the growth of Web3 brands.",
   },
   {
     key: "rev3",

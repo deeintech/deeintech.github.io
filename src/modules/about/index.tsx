@@ -28,7 +28,7 @@ export const About = () => (
           </li>
           <li className={styles.bullet}>Code apps in my spare time</li>
           <li className={styles.bullet}>
-            A member of Blockchain Game Alliance, ARC Community
+            A member of Blockchain Game Alliance, ARC Community, Dark Labs
           </li>
         </ul>
       </div>

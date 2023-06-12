@@ -81,6 +81,11 @@ const config = {
           to: "/blog/"
         },
         {
+          label: "Partners",
+          position: "left",
+          to: "/partners/"
+        },
+        {
           label: "Twitter",
           position: "left",
           to: "https://twitter.com/deeintech"

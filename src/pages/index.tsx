@@ -1,6 +1,6 @@
 import React from "react"
 import clsx from "clsx"
-import Button from "@theme/Button"
+
 import customFields from "../config/customFields"
 
 import liCss from "../css/use-cases/list.module.css"
@@ -13,10 +13,11 @@ import { Section } from "../components/Section"
 import UseCaseCustomers from "../components/UseCaseCustomers"
 // import Customers from "../components/Customers"
 
-import { Results } from "../modules/results"
+import { GetStarted } from "../modules/get-started"
 import { Header } from "../modules/index-header"
 import { Services } from "../modules/services"
 import { About } from "../modules/about"
+import { Results } from "../modules/results"
 import { customers } from "../assets/customers"
 
 const List = ({
@@ -43,8 +44,8 @@ const PartnersData = () => (
         <List
           itemClassName={clsx(prCss.property, ucCss["use-case__property"])}
           items={[
-            "Over $71M in funding secured",
-            "Amassed millions of followers for 75+ clients",
+            "Millions in funding secured",
+            "Amassed millions of followers for dozens of clients",
             "Hundreds of partnerships, including bluechips",
             "Manage a client portfolio worth close to $1 Bn",
           ]}
@@ -70,23 +71,7 @@ const Home = () => (
     </Section>
     <Results />
     <About />
-    <Section fullWidth>
-      <Section.Title center size="small">
-        <div id="go">Ready to get started?</div>
-      </Section.Title>
-
-      <Section noGap center>
-        <Section.Subtitle center size="small">
-          DM me on <a href="https://twitter.com/deeintech">Twitter</a> or <br />
-          <br />
-        </Section.Subtitle>
-        <div>
-          <Button to="https://calendly.com/deeintech/15min" newTab>
-            Book a call
-          </Button>
-        </div>
-      </Section>
-    </Section>
+    <GetStarted />
   </Layout>
 )
 

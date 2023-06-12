@@ -7,7 +7,6 @@ import { logos as logosManifest } from "../../assets/logos"
 // importing SVGs individually to inject them into the DOM and avoid HTTP request
 import arcadia from "../../../static/img/logos/arcadia.svg"
 import pacificmeta from "../../../static/img/logos/pacificmeta.svg"
-import darklabs from "../../../static/img/logos/darklabs.svg"
 import rev3 from "../../../static/img/logos/rev3.svg"
 
 const svgs = [
@@ -18,12 +17,6 @@ const svgs = [
   {
     ...logosManifest.pacificmeta,
     svg: pacificmeta,
-  },
-  {
-    ...logosManifest.darklabs,
-    svg: darklabs,
-    width: 36,
-    height: 36,
   },
   {
     ...logosManifest.rev3,
