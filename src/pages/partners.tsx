@@ -114,10 +114,9 @@ const Partners = () => {
                 juCss.jumbotron__subtitle,
               )}
             >
-              I teamed up with top-tier agencies and studios to provide the best
-              Web3 services, including marketing, development, auditing,
-              fundrasing, etc. If you want to participate on any level, please{" "}
-              <a href="#start">reach out</a>.
+              Receive world-class services via curated partners network of Web3
+              agencies, studios, and individuals. For inquiries, please{" "}
+              <a href="#start">contact here</a>.
             </p>
           </div>
         </div>
