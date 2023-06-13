@@ -102,8 +102,8 @@ const Partners = () => {
             >
               I teamed up with top-tier agencies and studios to provide the best
               Web3 services, including marketing, development, auditing,
-              fundrasing, etc. If you want to work with me or set up any
-              partnerships, please don't hesitate to{" "}
+              fundrasing, etc. If you want to work with me or set up a
+              partnership, please don't hesitate to{" "}
               <a href="#start">reach out</a>.
             </p>
           </div>
