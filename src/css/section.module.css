@@ -57,7 +57,7 @@
 }
 
 .section--odd {
-  background-color: var(--theme-section-odd-bg-color);
+  background: none;
 }
 
 .section--showcase {

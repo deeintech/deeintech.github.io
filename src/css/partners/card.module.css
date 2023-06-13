@@ -1,7 +1,6 @@
 .card {
   display: flex;
   height: 360px;
-  border-radius: 16px;
   border: 1px solid #2b385b;;
   padding: 0;
   margin: 15px 0;
@@ -22,10 +21,6 @@
   margin-bottom: 2rem;
 }
 
-html[data-theme="light"] .card__logo {
-  filter: brightness(0) opacity(0.8);
-}
-
 .card__author {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -44,7 +39,6 @@ html[data-theme="light"] .card__logo {
 .card__illustration > img {
   height: 358px;
   width: auto;
-  border-radius: 16px;
 }
 
 @media (max-width: 996px) {

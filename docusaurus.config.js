@@ -43,7 +43,7 @@ const config = {
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
-      disableSwitch: false,
+      disableSwitch: true,
       respectPrefersColorScheme: true,
     },
     image: "/img/og.gif",
