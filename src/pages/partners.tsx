@@ -54,6 +54,20 @@ const partners: Partner[] = [
     },
   },
   {
+    id: "X3 Labs",
+    logo: {
+      ...logos.x3,
+      width: 60,
+    },
+    summary:
+      "X3 is a blockchain arm of XURPAS and the largest one-stop Web3 dev shop in Shoutheast Asia. The team consists of 200+ devs and 1000+ artsists, testers, etc. Hundreds of B2B and B2C clients, including Samsung, L'Oréal, Target, AirAsia, CitiBank, Insomnia, etc.",
+    image: {
+      alt: "X3 logo",
+      src: "/img/partners/5.png",
+      width: 225,
+    },
+  },
+  {
     id: "pacificmeta",
     logo: {
       ...logos.pacificmeta,
@@ -102,8 +116,7 @@ const Partners = () => {
             >
               I teamed up with top-tier agencies and studios to provide the best
               Web3 services, including marketing, development, auditing,
-              fundrasing, etc. If you want to work with me or set up a
-              partnership, please don't hesitate to{" "}
+              fundrasing, etc. If you want to participate on any level, please{" "}
               <a href="#start">reach out</a>.
             </p>
           </div>

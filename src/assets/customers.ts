@@ -19,9 +19,9 @@ export const customers: Customer[] = [
       "LVRG is a leading BD studio aimed to accelerate the growth of Web3 brands.",
   },
   {
-    key: "rev3",
-    logoWidth: 120,
+    key: "x3",
+    logoWidth: 30,
     quote:
-      "Rev3 is Web3 development studio focused on UI/UX design, generative art, minting and staking contracts. Clients include: Llamaverse, Bridg3, Yugiyn, Godjira, Quirkies, etc.",
+      "X3 is a blockchain arm of XURPAS and the largest one-stop Web3 dev shop in Shoutheast Asia.",
   },
 ]

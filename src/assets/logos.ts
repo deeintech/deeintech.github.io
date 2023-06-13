@@ -43,4 +43,10 @@ export const logos: Record<string, CustomerLogo> = {
     width: 140,
     height: 56,
   },
+  x3: {
+    src: "/img/logos/x3.svg",
+    alt: "X3 logo",
+    width: 140,
+    height: 56,
+  },
 }
