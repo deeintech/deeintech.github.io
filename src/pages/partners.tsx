@@ -100,17 +100,17 @@ const Partners = () => {
                 juCss.jumbotron__subtitle,
               )}
             >
-              I teamed up with top-tier agencies and studios to <br /> provide
-              the best Web3 services, including marketing, <br />
-              development, auditing, fundrasing, etc.
+              I teamed up with top-tier agencies and studios to provide the best
+              Web3 services, including marketing, development, auditing,
+              fundrasing, etc. If you want to work with me or set up any
+              partnerships, please don't hesitate to{" "}
+              <a href="#start">reach out</a>.
             </p>
           </div>
         </div>
       </section>
 
-      {partners.map((partner, index) => {
-        const odd = index % 2 === 0
-
+      {partners.map((partner) => {
         const summary = (
           <p className={caCss.card__summary}>
             <img
@@ -142,13 +142,14 @@ const Partners = () => {
             className={clsx(seCss.section, seCss["section--inner"])}
           >
             <div className={caCss.card}>
-              {odd ? illustration : summary}
-              {odd ? summary : illustration}
+              {summary} {illustration}
             </div>
           </section>
         )
       })}
-      <GetStarted />
+      <div id="start">
+        <GetStarted />
+      </div>
     </Layout>
   )
 }

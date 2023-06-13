@@ -47,7 +47,6 @@ const PartnersData = () => (
             "Millions in funding secured",
             "Amassed millions of followers for dozens of clients",
             "Hundreds of partnerships, including bluechips",
-            "Manage a client portfolio worth close to $1 Bn",
           ]}
         />
         <div>

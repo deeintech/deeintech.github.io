@@ -1,8 +1,8 @@
 .jumbotron {
   display: flex;
   min-height: 500px;
+  /* text-align: left; */
   max-width: var(--ifm-container-width);
-  width: 100%;
   margin: 0 auto;
   padding: 0 1rem;
 }
