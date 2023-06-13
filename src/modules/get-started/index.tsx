@@ -11,7 +11,8 @@ export const GetStarted = () => {
 
       <Section noGap center>
         <Section.Subtitle center size="small">
-          <a href="https://twitter.com/deeintech">DM me on Twitter</a> or <br />
+          <a href="mailto:dmytrodao@gmail.com">Email</a>,{" "}
+          <a href="https://twitter.com/deeintech">DM</a> or <br />
           <br />
         </Section.Subtitle>
         <div>
