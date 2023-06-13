@@ -60,7 +60,7 @@ const partners: Partner[] = [
       width: 60,
     },
     summary:
-      "X3 is a blockchain arm of XURPAS and the largest one-stop Web3 dev shop in Shoutheast Asia. The team consists of 200+ devs and 1000+ artsists, testers, etc. Hundreds of B2B and B2C clients, including Samsung, L'Oréal, Target, AirAsia, CitiBank, Insomnia, etc.",
+      "X3 is a blockchain arm of XURPAS and is the largest one-stop Web3 dev shop in Shoutheast Asia. The team consists of 200+ devs and 1000+ artsists, testers, etc. Hundreds of B2B and B2C clients, including Samsung, L'Oréal, Target, AirAsia, CitiBank, Insomnia, etc.",
     image: {
       alt: "X3 logo",
       src: "/img/partners/5.png",

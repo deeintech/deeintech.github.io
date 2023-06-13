@@ -22,6 +22,6 @@ export const customers: Customer[] = [
     key: "x3",
     logoWidth: 30,
     quote:
-      "X3 is a blockchain arm of XURPAS and the largest one-stop Web3 dev shop in Shoutheast Asia.",
+      "X3 is a blockchain arm of XURPAS and is the largest one-stop Web3 dev shop in Shoutheast Asia.",
   },
 ]
