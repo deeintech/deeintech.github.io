@@ -114,7 +114,7 @@ const Partners = () => {
                 juCss.jumbotron__subtitle,
               )}
             >
-              Receive world-class services via curated partners network of Web3
+              Receive world-class services via curated partner network of Web3
               agencies, studios, and individuals. For inquiries, please{" "}
               <a href="#start">contact here</a>.
             </p>
