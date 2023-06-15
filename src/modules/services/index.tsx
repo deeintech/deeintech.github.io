@@ -29,10 +29,12 @@ const servicesList = [
     ],
   },
   {
-    title: "Fundraising",
+    title: "Advisory",
     uses: [
       "Introductions to VCs, angels and private equity",
       "Optimization of pitch & financial materials",
+      "Cross-border legal strategy",
+      "Company formation or exit",
     ],
   },
 ]
