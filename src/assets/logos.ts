@@ -5,7 +5,7 @@ export const logos: Record<string, CustomerLogo> = {
     src: "/img/logos/arcadia.svg",
     alt: "Arcadia logo",
     width: 140,
-    height: 56,
+    height: 40,
   },
   bga: {
     src: "/img/logos/bga.png",
@@ -17,7 +17,7 @@ export const logos: Record<string, CustomerLogo> = {
     src: "/img/logos/pacificmeta.svg",
     alt: "Pacific Meta logo",
     width: 140,
-    height: 56,
+    height: 40,
   },
   darklabs: {
     src: "/img/logos/darklabs.webp",
@@ -29,7 +29,7 @@ export const logos: Record<string, CustomerLogo> = {
     src: "/img/logos/arc.svg",
     alt: "Arc logo",
     width: 90,
-    height: 36,
+    height: 40,
   },
   lvrg: {
     src: "/img/logos/lvrg.svg",
@@ -47,6 +47,18 @@ export const logos: Record<string, CustomerLogo> = {
     src: "/img/logos/x3.svg",
     alt: "X3 logo",
     width: 140,
+    height: 56,
+  },
+  metalaw: {
+    src: "/img/logos/metalaw.png",
+    alt: "Meta Law logo",
+    width: 190,
+    height: 40,
+  },
+  lawyer: {
+    src: "/img/logos/lawyer.png",
+    alt: "Lawyer logo",
+    width: 190,
     height: 56,
   },
 }
