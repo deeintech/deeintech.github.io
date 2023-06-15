@@ -43,8 +43,8 @@ const partners: Partner[] = [
     id: "metalaw",
     logo: {
       ...logos.metalaw,
-      height: 50,
-      width: 160,
+      height: 32,
+      width: 120,
     },
     summary:
       "Meta Law is a law firm that leverages tech + lean startup methods to provide legal services for Web3 companies, DAOs, crypto investment funds, etc. Clients include: BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC, SteadyStack, Dark Echolon, etc.",

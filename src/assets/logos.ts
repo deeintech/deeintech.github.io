@@ -52,8 +52,8 @@ export const logos: Record<string, CustomerLogo> = {
   metalaw: {
     src: "/img/logos/metalaw.png",
     alt: "Meta Law logo",
-    width: 190,
-    height: 40,
+    width: 120,
+    height: 32,
   },
   lawyer: {
     src: "/img/logos/lawyer.png",
