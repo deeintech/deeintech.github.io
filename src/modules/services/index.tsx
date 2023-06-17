@@ -15,7 +15,7 @@ const servicesList = [
       "Influencer marketing",
       "Collabs & partnerships",
       "NFT mint campaigns",
-      "Localization to Asian markets",
+      "Localization and expansion strategy to Asian markets (China, Yapan, Korea)",
     ],
   },
   {
@@ -31,10 +31,12 @@ const servicesList = [
   {
     title: "Advisory",
     uses: [
-      "Introductions to VCs, angels and private equity",
+      "Assistance with fundraising (VCs, angels, etc.)",
       "Optimization of pitch & financial materials",
       "Cross-border legal strategy",
+      "Banking services & regulatory compliance",
       "Company formation or exit",
+      "Listing on CEXs",
     ],
   },
 ]
