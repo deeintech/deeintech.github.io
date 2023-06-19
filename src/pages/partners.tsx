@@ -55,6 +55,20 @@ const partners: Partner[] = [
     },
   },
   {
+    id: "seerlabs",
+    logo: {
+      ...logos.seerlabs,
+      width: 180,
+    },
+    summary:
+      "Seer Labs is a leading incubator in Asia that provides fundraising and marketing services, listing on top-tier exchanges (OKX, Huobi, MEXC, etc), networking, roadshow, etc. Has a reach of 2M + crypto audience across all platforms. Served 60+ clients, including Polygon, Verasity, Aave, Erlond, Xend Finance, etc.",
+    image: {
+      alt: "Seer Labs logo",
+      src: "/img/partners/7.png",
+      width: 225,
+    },
+  },
+  {
     id: "lvrg",
     logo: {
       ...logos.lvrg,
@@ -69,20 +83,6 @@ const partners: Partner[] = [
     },
   },
   {
-    id: "X3 Labs",
-    logo: {
-      ...logos.x3,
-      width: 60,
-    },
-    summary:
-      "X3 is a blockchain arm of XURPAS and is the largest one-stop Web3 dev shop in Shoutheast Asia. The team consists of 200+ devs and 1000+ artsists, testers, etc. Hundreds of B2B and B2C clients, including Samsung, L'Oréal, Target, AirAsia, CitiBank, Insomnia, etc.",
-    image: {
-      alt: "X3 logo",
-      src: "/img/partners/5.png",
-      width: 225,
-    },
-  },
-  {
     id: "pacificmeta",
     logo: {
       ...logos.pacificmeta,
@@ -93,6 +93,20 @@ const partners: Partner[] = [
     image: {
       alt: "Pacific Meta logo",
       src: "/img/partners/3.png",
+      width: 225,
+    },
+  },
+  {
+    id: "X3 Labs",
+    logo: {
+      ...logos.x3,
+      width: 60,
+    },
+    summary:
+      "X3 is a blockchain arm of XURPAS and is the largest one-stop Web3 dev shop in Shoutheast Asia. The team consists of 200+ devs and 1000+ artsists, testers, etc. Hundreds of B2B and B2C clients, including Samsung, L'Oréal, Target, AirAsia, CitiBank, Insomnia, etc.",
+    image: {
+      alt: "X3 logo",
+      src: "/img/partners/5.png",
       width: 225,
     },
   },
