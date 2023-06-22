@@ -31,9 +31,8 @@ const servicesList = [
   {
     title: "Advisory",
     uses: [
-      "Assistance with fundraising (VCs, angels, etc.)",
-      "Optimization of pitch & financial materials",
-      "Cross-border legal strategy",
+      "Assistance with fundraising",
+      "Legal strategy",
       "Banking services & regulatory compliance",
       "Company formation or exit",
       "Listing on CEXs",

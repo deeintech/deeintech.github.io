@@ -12,8 +12,7 @@ export const Header = () => {
         </Section.Title>
 
         <Section.Subtitle className={styles.subheader} center>
-          I facilitate connections and deals to scale your GameFi or Web3
-          project
+          I facilitate connections to scale your GameFi or Web3 brand
         </Section.Subtitle>
 
         <div>

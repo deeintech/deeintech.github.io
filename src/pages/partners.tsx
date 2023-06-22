@@ -40,16 +40,16 @@ const partners: Partner[] = [
     },
   },
   {
-    id: "metalaw",
+    id: "lawyr",
     logo: {
-      ...logos.metalaw,
-      height: 32,
+      ...logos.lawyr,
+      height: 30,
       width: 120,
     },
     summary:
-      "Meta Law is a law firm that leverages tech + lean startup methods to provide legal services for Web3 companies, DAOs, crypto investment funds, etc. Clients include: BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC, SteadyStack, Dark Echolon, etc.",
+      "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT. Over 100 clients, including BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC, SteadyStack, Dark Echolon, etc.",
     image: {
-      alt: "Metalaw logo",
+      alt: "Lawyr logo",
       src: "/img/partners/6.png",
       width: 525,
     },
@@ -61,25 +61,11 @@ const partners: Partner[] = [
       width: 180,
     },
     summary:
-      "Seer Labs is a leading incubator in Asia that provides fundraising and marketing services, listing on top-tier exchanges (OKX, Huobi, MEXC, etc), networking, roadshow, etc. Has a reach of 2M + crypto audience across all platforms. Served 60+ clients, including Polygon, Verasity, Aave, Erlond, Xend Finance, etc.",
+      "Seer Labs is a leading incubator in Asia that provides marketing and fundraising services, listing on top-tier exchanges (OKX, Huobi, MEXC, etc), networking, roadshow, etc. Served 60+ clients, including Polygon, Verasity, Aave, Erlond, Xend Finance, etc.",
     image: {
       alt: "Seer Labs logo",
       src: "/img/partners/7.png",
       width: 225,
-    },
-  },
-  {
-    id: "lvrg",
-    logo: {
-      ...logos.lvrg,
-      height: 30,
-      width: 150,
-    },
-    summary:
-      "LVRG is a leading BD studio aimed to accelerate the growth of Web3 brands. Served over 200 clients, including Pudgy Penguins, BAYC, Gala Games, McLaren, Decrypt, Ethermail, etc.",
-    image: {
-      alt: "LVRG logo",
-      src: "/img/partners/2.png",
     },
   },
   {

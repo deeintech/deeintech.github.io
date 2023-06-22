@@ -11,7 +11,6 @@ import seCss from "../css/section.module.css"
 import Layout from "../theme/Layout"
 import { Section } from "../components/Section"
 import UseCaseCustomers from "../components/UseCaseCustomers"
-// import Customers from "../components/Customers"
 
 import { GetStarted } from "../modules/get-started"
 import { Header } from "../modules/index-header"
@@ -40,7 +39,7 @@ const PartnersData = () => (
   <section className={seCss.section} id="financial-market-data">
     <div className={clsx(seCss["section--inner"], ucCss.section)}>
       <div className={ucCss["use-case__industries"]}>
-        <h4>Partners overview</h4>
+        <h4>Partner network overview</h4>
         <List
           itemClassName={clsx(prCss.property, ucCss["use-case__property"])}
           items={[
@@ -66,7 +65,6 @@ const Home = () => (
     replaceTitle
   >
     <Header />
-    {/* <Customers /> */}
     <PartnersData />
     <Section fullWidth center>
       <Services />

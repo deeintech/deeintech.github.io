@@ -4,7 +4,7 @@ const markdownPlugins = require("./plugins/markdown-plugins")
 
 const config = {
   title: "Dee in Tech",
-  tagline: "Facilitating connections and deals for your GameFi or Web3 brand",
+  tagline: "Facilitating connections for your GameFi or Web3 brand",
   url: `https://${customFields.domain}`,
   baseUrl: "/",
   baseUrlIssueBanner: false,

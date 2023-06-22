@@ -25,23 +25,11 @@ export const logos: Record<string, CustomerLogo> = {
     width: 140,
     height: 40,
   },
-  darklabs: {
-    src: "/img/logos/darklabs.webp",
-    alt: "Dark Labs logo",
-    width: 70,
-    height: 55,
-  },
   arc: {
     src: "/img/logos/arc.svg",
     alt: "Arc logo",
     width: 90,
     height: 40,
-  },
-  lvrg: {
-    src: "/img/logos/lvrg.svg",
-    alt: "LVRG logo",
-    width: 140,
-    height: 20,
   },
   rev3: {
     src: "/img/logos/rev3.svg",
@@ -55,16 +43,10 @@ export const logos: Record<string, CustomerLogo> = {
     width: 140,
     height: 56,
   },
-  metalaw: {
-    src: "/img/logos/metalaw.png",
-    alt: "Meta Law logo",
-    width: 120,
-    height: 32,
-  },
-  lawyer: {
-    src: "/img/logos/lawyer.png",
-    alt: "Lawyer logo",
+  lawyr: {
+    src: "/img/logos/lawyr.png",
+    alt: "Lawyr logo",
     width: 190,
-    height: 56,
+    height: 30,
   },
 }

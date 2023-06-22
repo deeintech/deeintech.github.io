@@ -14,14 +14,9 @@ export const customers: Customer[] = [
       "Pacific Meta Inc. provides comprehensive marketing support for overseas Web3 projects in the Japanese market, including strategy development, localization, promotion, and community management.",
   },
   {
-    key: "metalaw",
-    logoWidth: 180,
+    key: "lawyr",
+    logoWidth: 120,
     quote:
-      "Meta Law is a law firm that leverages tech + lean startup methods to provide legal services for Web3 companies, DAOs, crypto investment funds, etc.",
-  },
-  {
-    key: "lvrg",
-    quote:
-      "LVRG is a leading BD studio aimed to accelerate the growth of Web3 brands.",
+      "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
   },
 ]
