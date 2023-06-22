@@ -15,7 +15,13 @@ export const customers: Customer[] = [
   },
   {
     key: "lawyr",
-    logoWidth: 120,
+    logoWidth: 100,
+    quote:
+      "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
+  },
+  {
+    key: "seerlabs",
+    logoWidth: 140,
     quote:
       "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
   },
