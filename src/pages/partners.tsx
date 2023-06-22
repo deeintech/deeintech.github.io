@@ -58,6 +58,7 @@ const partners: Partner[] = [
     id: "seerlabs",
     logo: {
       ...logos.seerlabs,
+      height: 60,
       width: 180,
     },
     summary:

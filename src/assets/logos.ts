@@ -10,8 +10,8 @@ export const logos: Record<string, CustomerLogo> = {
   seerlabs: {
     src: "/img/logos/seerlabs.png",
     alt: "Seer Labs logo",
-    width: 120,
-    height: 55,
+    width: 80,
+    height: 46,
   },
   bga: {
     src: "/img/logos/bga.png",
@@ -22,8 +22,8 @@ export const logos: Record<string, CustomerLogo> = {
   pacificmeta: {
     src: "/img/logos/pacificmeta.svg",
     alt: "Pacific Meta logo",
-    width: 140,
-    height: 40,
+    width: 150,
+    height: 46,
   },
   arc: {
     src: "/img/logos/arc.svg",
