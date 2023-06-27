@@ -18,7 +18,7 @@ export const About = () => (
         <Section.Subtitle>
           If you don't know me already, my name is Dee. I provide access to
           top-tier experts, agencies, studios, and networks to help scale your
-          GameFi and Web3 brand. <br /> <br />
+          GameFi or Web3 brand. <br /> <br />
         </Section.Subtitle>
         <h3>My life map:</h3>
         <ul className={styles.list}>

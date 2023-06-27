@@ -15,7 +15,7 @@ const servicesList = [
       "Influencer marketing",
       "Collabs & partnerships",
       "NFT mint campaigns",
-      "Localization and expansion strategy to Asian markets (China, Yapan, Korea)",
+      "Localization and expansion strategy to Asian markets (China, Japan, Korea)",
     ],
   },
   {
