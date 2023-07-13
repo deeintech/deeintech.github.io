@@ -10,10 +10,6 @@ export const GetStarted = () => {
       </Section.Title>
 
       <Section noGap center>
-        <Section.Subtitle center size="small">
-          <a href="mailto:dmytrodao@gmail.com">Email</a> or <br />
-          <br />
-        </Section.Subtitle>
         <div>
           <Button to="https://t.me/deeintech" newTab>
             DM me
