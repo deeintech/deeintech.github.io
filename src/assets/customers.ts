@@ -8,16 +8,16 @@ export const customers: Customer[] = [
       "Arcadia manages ALL aspects of Web3 growth. It helps clients achieve maximum gains, while creating a sustainable community that is genuinely engaged in your USP. Clients include: Helix Metaverse, Arties, LimeWire, Moonrunners, Saishu Mirai Shoujo, etc.",
   },
   {
-    key: "lawyr",
+    key: "metalaw",
     logoWidth: 100,
     quote:
-      "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
+      "Meta Law is a Web3 law firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
   },
   {
     key: "seerlabs",
     logoWidth: 140,
     quote:
-      "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
+      "Seer Labs is a leading incubator in Asia that provides marketing and fundraising services, listing on top-tier exchanges (OKX, Huobi, MEXC, etc), networking, roadshow, etc. Served 60+ clients, including Polygon, Verasity, Aave, Erlond, Xend Finance, etc.",
   },
   {
     key: "pacificmeta",

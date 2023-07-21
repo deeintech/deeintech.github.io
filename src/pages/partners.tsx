@@ -40,16 +40,16 @@ const partners: Partner[] = [
     },
   },
   {
-    id: "lawyr",
+    id: "law,etalawyr",
     logo: {
-      ...logos.lawyr,
+      ...logos.metalaw,
       height: 30,
       width: 120,
     },
     summary:
-      "Lawyr is a legal advisory firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT. Over 100 clients, including BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC, SteadyStack, Dark Echolon, etc.",
+      "Meta Law is a Web3 law firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT. Over 100 clients, including BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC, SteadyStack, Dark Echolon, etc.",
     image: {
-      alt: "Lawyr logo",
+      alt: "Metalaw logo",
       src: "/img/partners/6.png",
       width: 525,
     },

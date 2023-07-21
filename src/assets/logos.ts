@@ -43,9 +43,9 @@ export const logos: Record<string, CustomerLogo> = {
     width: 140,
     height: 56,
   },
-  lawyr: {
-    src: "/img/logos/lawyr.png",
-    alt: "Lawyr logo",
+  metalaw: {
+    src: "/img/logos/metalaw.png",
+    alt: "Metalaw logo",
     width: 100,
     height: 25,
   },

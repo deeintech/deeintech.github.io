@@ -11,7 +11,7 @@ export const GetStarted = () => {
 
       <Section noGap center>
         <div>
-          <Button to="https://t.me/deeintech" newTab>
+          <Button to="https://twitter.com/deeintech" newTab>
             DM me
           </Button>
         </div>
