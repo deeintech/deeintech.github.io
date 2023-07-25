@@ -131,7 +131,7 @@ const Partners = () => {
               )}
             >
               Receive world-class services via a curated partner network of Web3
-              agencies, studios, and individuals. For inquiries, please{" "}
+              agencies, studios, firms, and individuals. For inquiries, please{" "}
               <a href="#start">contact here</a>.
             </p>
           </div>
