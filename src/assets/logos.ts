@@ -40,7 +40,7 @@ export const logos: Record<string, CustomerLogo> = {
   x3: {
     src: "/img/logos/x3.svg",
     alt: "X3 logo",
-    width: 140,
+    width: 60,
     height: 56,
   },
   metalaw: {
@@ -48,5 +48,11 @@ export const logos: Record<string, CustomerLogo> = {
     alt: "Metalaw logo",
     width: 100,
     height: 25,
+  },
+  opn: {
+    src: "/img/logos/opn.png",
+    alt: "Opn logo",
+    width: 60,
+    height: 56,
   },
 }

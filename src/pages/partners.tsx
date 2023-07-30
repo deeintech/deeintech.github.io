@@ -27,6 +27,21 @@ type Partner = {
 
 const partners: Partner[] = [
   {
+    id: "metalaw",
+    logo: {
+      ...logos.metalaw,
+      height: 30,
+      width: 120,
+    },
+    summary:
+      "Meta Law is a Web3 law firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT. Over 100 clients, including BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC Community, SteadyStack, Dark Echolon, etc.",
+    image: {
+      alt: "Metalaw logo",
+      src: "/img/partners/6.png",
+      width: 525,
+    },
+  },
+  {
     id: "arcadia",
     logo: {
       ...logos.arcadia,
@@ -37,21 +52,6 @@ const partners: Partner[] = [
       alt: "Arcadia logo",
       src: "/img/partners/1.png",
       width: 200,
-    },
-  },
-  {
-    id: "law,etalawyr",
-    logo: {
-      ...logos.metalaw,
-      height: 30,
-      width: 120,
-    },
-    summary:
-      "Meta Law is a Web3 law firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT. Over 100 clients, including BAYC, Cryptopunks, Citizen Capital, NeoTokyo, NFArcade, ARC, SteadyStack, Dark Echolon, etc.",
-    image: {
-      alt: "Metalaw logo",
-      src: "/img/partners/6.png",
-      width: 525,
     },
   },
   {
@@ -67,6 +67,20 @@ const partners: Partner[] = [
       alt: "Seer Labs logo",
       src: "/img/partners/7.png",
       width: 225,
+    },
+  },
+  {
+    id: "opn",
+    logo: {
+      ...logos.opn,
+      width: 60,
+    },
+    summary:
+      "OPN offers a full-suite of high tier Web3 services to succeed in the Web3 market: brand optimization, come to market strategy, collabs & partnerships, etc. Generated over $110M for 20+ clients.",
+    image: {
+      alt: "OPN logo",
+      src: "/img/partners/8.png",
+      width: 525,
     },
   },
   {

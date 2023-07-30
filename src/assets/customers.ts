@@ -2,16 +2,16 @@ import { Customer } from "../components/UseCaseCustomers"
 
 export const customers: Customer[] = [
   {
+    key: "metalaw",
+    logoWidth: 100,
+    quote:
+      "Meta Law is a Web3 law firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT. Over 100 clients, including BAYC, Cryptopunks, Citizen Capital, NeoTokyo, SteadyStack, etc.",
+  },
+  {
     key: "arcadia",
     logoWidth: 90,
     quote:
       "Arcadia manages ALL aspects of Web3 growth. It helps clients achieve maximum gains, while creating a sustainable community that is genuinely engaged in your USP. Clients include: Helix Metaverse, Arties, LimeWire, Moonrunners, Saishu Mirai Shoujo, etc.",
-  },
-  {
-    key: "metalaw",
-    logoWidth: 100,
-    quote:
-      "Meta Law is a Web3 law firm that offers comprehensive legal advisory to guide projects throughout their entire life-cycle from initial formation, to growth, to VC financing + EXIT.",
   },
   {
     key: "seerlabs",
