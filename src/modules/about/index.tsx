@@ -17,14 +17,15 @@ export const About = () => (
         <Section.Title size="small">About me</Section.Title>
         <Section.Subtitle>
           If you don't know me already, my name is Dee. I provide access to
-          top-tier experts, agencies, studios, and networks to help scale your
+          top-tier experts, agencies, studios, and firms to help scale your
           GameFi or Web3 brand. <br /> <br />
         </Section.Subtitle>
-        <h3>My life map:</h3>
         <ul className={styles.list}>
           <li className={styles.bullet}>6+ years in Web3</li>
           <li className={styles.bullet}>Prev: Chainlink, OMG Network</li>
-          <li className={styles.bullet}>Code apps in my spare time</li>
+          <li className={styles.bullet}>
+            Build scalable systems in my spare time
+          </li>
           <li className={styles.bullet}>
             A member of ARC Community, BGA, Dark Labs, TTOO
           </li>

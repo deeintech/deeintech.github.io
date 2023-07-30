@@ -45,7 +45,7 @@ const PartnersData = () => (
           items={[
             "Millions in funding secured",
             "Amassed millions of followers for dozens of clients",
-            "Hundreds of partnerships, including bluechips",
+            "Top-tier collabs, including bluechips",
           ]}
         />
         <div>
