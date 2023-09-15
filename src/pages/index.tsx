@@ -65,10 +65,10 @@ const Home = () => (
     replaceTitle
   >
     <Header />
-    <PartnersData />
     <Section fullWidth center>
       <Services />
     </Section>
+    <PartnersData />
     <Results />
     <About />
     <GetStarted />

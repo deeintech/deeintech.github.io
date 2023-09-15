@@ -5,6 +5,10 @@
   justify-content: center;
 }
 
+.nogap {
+  padding-bottom: 0;
+}
+
 .card {
   width: 350px;
   display: flex;

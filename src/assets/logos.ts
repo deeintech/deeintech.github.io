@@ -49,10 +49,4 @@ export const logos: Record<string, CustomerLogo> = {
     width: 100,
     height: 25,
   },
-  opn: {
-    src: "/img/logos/opn.png",
-    alt: "Opn logo",
-    width: 60,
-    height: 56,
-  },
 }

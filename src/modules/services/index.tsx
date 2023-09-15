@@ -42,12 +42,6 @@ const servicesList = [
 
 export const Services = () => (
   <div>
-    <Section>
-      <Section.Subtitle center>
-        My network covers most Web3 services. <br />
-        If you have a specific request, I can arrange it for you!
-      </Section.Subtitle>
-    </Section>
     <div className={styles.root}>
       {servicesList.map(({ title, uses }, index) => (
         <div className={styles.card} key={index}>
@@ -63,5 +57,11 @@ export const Services = () => (
         </div>
       ))}
     </div>
+    <Section className={styles.nogap}>
+      <Section.Subtitle center>
+        My network covers most Web3 services. <br />
+        If you have a specific request, I can arrange it for you!
+      </Section.Subtitle>
+    </Section>
   </div>
 )

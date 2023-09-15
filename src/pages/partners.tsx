@@ -70,20 +70,6 @@ const partners: Partner[] = [
     },
   },
   {
-    id: "opn",
-    logo: {
-      ...logos.opn,
-      width: 60,
-    },
-    summary:
-      "OPN offers a full-suite of high tier Web3 services to succeed in the Web3 market: brand optimization, come to market strategy, collabs & partnerships, etc. Generated over $110M for 20+ clients.",
-    image: {
-      alt: "OPN logo",
-      src: "/img/partners/8.png",
-      width: 525,
-    },
-  },
-  {
     id: "pacificmeta",
     logo: {
       ...logos.pacificmeta,
