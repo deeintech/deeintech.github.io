@@ -19,25 +19,25 @@ const config = {
     require.resolve("./plugins/webpack-ts/index"),
     require.resolve("./plugins/optimize/index"),
     require.resolve("./plugins/delay-code-block-appearance"),
-    [
-      require.resolve("./plugins/blog"),
-      {
-        ...markdownPlugins,
-        blogSidebarCount: 10,
-        feedOptions: {
-          type: "all",
-          copyright: customFields.copyright,
-        },
-        showReadingTime: true,
-        postsPerPage: 1000,
-        blogPostComponent: require.resolve(
-          "./src/theme/BlogPostPage/index.tsx",
-        ),
-        blogTagsPostsComponent: require.resolve(
-          "./src/theme/BlogListPage/index.tsx",
-        ),
-      },
-    ],
+    // [
+    //   require.resolve("./plugins/blog"),
+    //   {
+    //     ...markdownPlugins,
+    //     blogSidebarCount: 10,
+    //     feedOptions: {
+    //       type: "all",
+    //       copyright: customFields.copyright,
+    //     },
+    //     showReadingTime: true,
+    //     postsPerPage: 1000,
+    //     blogPostComponent: require.resolve(
+    //       "./src/theme/BlogPostPage/index.tsx",
+    //     ),
+    //     blogTagsPostsComponent: require.resolve(
+    //       "./src/theme/BlogListPage/index.tsx",
+    //     ),
+    //   },
+    // ],
   ].filter(Boolean),
 
   themeConfig: {
@@ -75,11 +75,6 @@ const config = {
         src: "/img/navbar/deeintech.svg",
       },
       items: [
-        {
-          label: "Blog",
-          position: "left",
-          to: "/blog/"
-        },
         {
           label: "Partners",
           position: "left",
