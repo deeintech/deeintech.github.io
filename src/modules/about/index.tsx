@@ -14,11 +14,11 @@ export const About = () => (
       />
 
       <div className={styles.text}>
-        <Section.Title size="small">About me</Section.Title>
+        <Section.Title size="small">About Dee</Section.Title>
         <Section.Subtitle>
           If you don't know me already, my name is Dee. I provide access to
-          top-tier experts, agencies, studios, and firms to help scale your
-          GameFi or Web3 brand. <br /> <br />
+          top-tier experts, agencies, studios, and firms that provide the best
+          Web3 services in the industry. <br /> <br />
         </Section.Subtitle>
         <ul className={styles.list}>
           <li className={styles.bullet}>6+ years in Web3</li>
@@ -26,9 +26,7 @@ export const About = () => (
           <li className={styles.bullet}>
             Build scalable systems in my spare time
           </li>
-          <li className={styles.bullet}>
-            A member of ARC Community, BGA, Dark Labs, TTOO
-          </li>
+          <li className={styles.bullet}>A member of ARC Community</li>
         </ul>
       </div>
     </div>

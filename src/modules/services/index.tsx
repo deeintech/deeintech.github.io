@@ -59,8 +59,8 @@ export const Services = () => (
     </div>
     <Section className={styles.nogap}>
       <Section.Subtitle center>
-        My network covers most Web3 services. <br />
-        If you have a specific request, I can arrange it for you!
+        Our network covers most Web3 services. <br />
+        If you have a specific request, we can arrange it for you!
       </Section.Subtitle>
     </Section>
   </div>
