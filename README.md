@@ -15,11 +15,13 @@ bundle
 # Run locally
 
 ```
-bundle exec jekyll serve
+jekyll serve
 ```
 
 # Deploy to prod
 
-```
+make updates in the gemfile
 
-```
+1. comment: `# gem "jekyll", "~> 4.4.1"`
+
+2. uncomment: `gem "github-pages", group: :jekyll_plugins`
