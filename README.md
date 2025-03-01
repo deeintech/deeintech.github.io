@@ -1,26 +1,28 @@
 # Dee's blog
 
-## Install jekyll, ruby
+## Installation
+
+install ruby and jekyll:
 
 ```
 https://jekyllrb.com/docs/installation
 ```
 
-## Install dependencies
+install required gems:
 
 ```
-bundle
+bundle install
 ```
 
 ## Run locally
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ## Deploy to prod
 
-make updates in the gemfile
+make the following updates in gemfile:
 
 1. comment: `# gem "jekyll", "~> 4.4.1"`
 
