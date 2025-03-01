@@ -12,13 +12,13 @@ https://jekyllrb.com/docs/installation
 bundle
 ```
 
-# Run locally
+## Run locally
 
 ```
 jekyll serve
 ```
 
-# Deploy to prod
+## Deploy to prod
 
 make updates in the gemfile
 
