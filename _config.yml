@@ -1,0 +1,9 @@
+title: Dee's Journal
+description: 
+author: Dee
+url: "https://deeintech.github.io" 
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
